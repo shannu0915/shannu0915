@@ -6,7 +6,7 @@
 
 <h1 align="center"> Shanmuka Teja Gandavarapu </h1>
 
-<h2 align="center">Full Stack Developer/Front-End Development Aspirant💸</h2>
+<h2 align="center">Full Stack/Front-End Developer Aspirant💸</h2>
 
 - 🎓 Passionate about building cool things and solving real-world problems through code.
 - 🌱 I’m currently learning **React** and **Node.js**
