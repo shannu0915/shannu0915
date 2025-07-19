@@ -1,7 +1,7 @@
 ![Profile Banner](https://capsule-render.vercel.app/api?type=waving&color=auto&height=160&section=header&text=Welcome!&fontAlign=50&fontAlignY=40&fontSize=40)
 
 <p align="center">
-  <img src="https://github.com/shannu0915/README.md/blob/main/profile banner.png?raw=true" width="100%" />
+  <img src="https://github.com/shannu0915/shannu0915/blob/main/profile banner.png?raw=true" width="100%" />
 </p>
 
 <h1 align="center"> Shanmuka Teja Gandavarapu </h1>
